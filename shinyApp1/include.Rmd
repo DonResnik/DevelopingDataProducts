@@ -1,0 +1,16 @@
+---
+title: "include"
+author: "Don Resnik"
+date: "September 5, 2016"
+output: html_document
+---
+### Documentation for mtcars data explorer
+
+The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
+
+Additional information can be by typing '?mtcars' within R
+
+Source code is available on the [GitHub](https://github.com/DonResnik/DevelopingDataProducts).
+
+You can select any combination of predictors to fit against Miles Per Gallon (mpg) to generate a plot and summary of combined coefficients.
+
